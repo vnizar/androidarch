@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Android Arch</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="age">Age</string>
+    <string name="save">Save</string>
+    <string name="repo_url">Repo Url</string>
+    <string name="repo_name">Repo Name</string>
+    <string name="user_list">User List</string>
+    <string name="add_repo">Add Repo</string>
+    <string name="repo_list">Repo List</string>
+    <string name="delete">Delete</string>
+</resources>
